@@ -273,6 +273,7 @@ Explain your project along with all the components
 Explain the Architecture of your Java Project
 Versions of different components used
 Which are the biggest challenges you have faced while working on Java project?
+----------->angular app integration cannot add backend jar so for front end  , multiple save connections so used pipeline
 Which is your biggest achievement in the mentioned Java project?
 Did you stuck in a situation where there was no path ahead, how you handled that case?
 Which is your favorite forum to get help while facing issues?
