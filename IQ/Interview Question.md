@@ -123,60 +123,65 @@ Java provides two interfaces to sort objects using data members of the class:
 			dont use java 8
 			
 			
-Have you used set list queue and map interface
-Why Map interface doesn’t extend Collection interface?
-INternal working of hashmap
-
+1. Have you used set list queue and map interface
+2. Why Map interface doesn’t extend Collection interface?
+3. INternal working of hashmap
+4.
 
 
 --------------------------------------------------------------					-Multithreading
 
-do you knwo states of thread
-executor service
-future and callable interface
-concurrency and parallelism
-			concurrency- > 4 thread and single core  vs 4 thread and 4 cores
-			parallelism->	(fork/join) list of string a,b,c,d and need to do uppercase
+1. do you knwo states of thread
+2. executor service
+3. future and callable interface
+4. concurrency and parallelism
+
+		
+* 	concurrency- > 4 thread and single core  vs 4 thread and 4 cores
+* 			parallelism->	(fork/join) list of string a,b,c,d and need to do uppercase
+*
 
 ------------------------------------------------------------------------------Serialization deserialization --clonable 
-what is serialization and deserialization
-how will you serialize obj and deserialize obj
-transient keyword- ? part of obj to be serialize
+1. what is serialization and deserialization
+2. how will you serialize obj and deserialize obj
+3. transient keyword- ? part of obj to be serialize
 
-int i=100; int j=200;	100………………………….200
-transient int i=100;
-int j=200;	0………………………….200
-transient int i=100;
-transient static int j=200;	0………………………….200
-transient final int i=100;
-transient int j=200;	100………………………….0
-Transient final int i=100;
-transient static int j=200;	100………………………….200
+* int i=100; int j=200;	100………………………….200
+* transient int i=100;
+* int j=200;	0………………………….200
+* transient int i=100;
+* transient static int j=200;	0………………………….200
+* transient final int i=100;
+* transient int j=200;	100………………………….0
+* Transient final int i=100;
+* transient static int j=200;	100………………………….200
 
-shallow copy and deep copy
+* shallow copy and deep copy
+*
 
 ----------------------------------------------------------------------------desing pattern
-singleton? where it is used 
-looging
-caching 
-db connection
+1. singleton? where it is used 
+2. looging
+3. caching 
+4. db connection
 
-readResolve();  when we serialize single ton and deserialize single ton then 2 instance is created to avaoid that 
-
+1. readResolve();  when we serialize single ton and deserialize single ton then 2 instance is created to avaoid that 
+2.
 
 
 		
 ----------------------------------------------------------------------------String
-String string buffer string builder
-why string immutable 
-intern keyword-
-String s1="abhi
-String s2 ="abhi"   
-s1==s2?
-string s3 = new String("Abhi")
-if s1==s3?
+* String string buffer string builder
+* why string immutable 
+* intern keyword-
+* String s1="abhi
+* String s2 ="abhi"   
+* s1==s2?
+* string s3 = new String("Abhi")
+* if s1==s3?
 
-Equals and hahscode
+1. Equals and hahscode
+
 	
 =---------------------------------------------------------------------jaava features 
 
@@ -186,23 +191,23 @@ lastest java used and its features
 
 --------------------------------------------------------------Spring Frame work
 
-What is DI
+1. What is DI
+2. 
+3. @Autowired
+4. by name 
+5. bytype 
+6. construcotror
+7. @Component
+8. @Repository
 
-@Autowired
-by name 
-bytype 
-construcotror
-@Component
-@Repository
-
-Let say you have configuured jdbc in your spring project and  jdbc exception occurs in spring then how it gets converted in to spring sxception
-How conponent scanning takes place in spring and spriongboot
-@Service
-@Contriller vs @restcontroller
-@ControlelrAdvice
-@Qualifier
-@transaction
-and isolation level
+1. Let say you have configuured jdbc in your spring project and  jdbc exception occurs in spring then how it gets converted in to spring sxception
+2. How conponent scanning takes place in spring and spriongboot
+3. @Service
+4. @Contriller vs @restcontroller
+5. @ControlelrAdvice
+6. @Qualifier
+7. @transaction
+8. and isolation level
 
 profiles in spring boot
 scope of bean - singleton prototype request,session
