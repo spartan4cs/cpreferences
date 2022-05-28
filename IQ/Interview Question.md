@@ -252,42 +252,41 @@ const orderedItemNames = orders.
 12. What is currying in JavaScript?
 
 
-Angular
-which angular version you have used
-when data json data is passed from angular to java , how it is getting passes to and fro?
-
+* Angular
+* which angular version you have used
+* when data json data is passed from angular to java , how it is getting passes to and fro?
+*
 
 ------------------------------------------------------------plsql
-dml ddl dcl
-normalization
-isolation level
-lets say you have list of employee with name age salary- i want employee with 2nd largest salary (dont use order by)
-.
-
-------------------------------------------------------------Buildtool
-Which build too you have used?
-
-
------------------------------------------------------Project related question
-Explain your project along with all the components
-Explain the Architecture of your Java Project
-Versions of different components used
-Which are the biggest challenges you have faced while working on Java project?
------------>angular app integration cannot add backend jar so for front end  , multiple save connections so used pipeline
-Which is your biggest achievement in the mentioned Java project?
-Did you stuck in a situation where there was no path ahead, how you handled that case?
-Which is your favorite forum to get help while facing issues?
-How you coordinate with the client in case of any issues?
-How you educate your client for the problems which they are not aware of?
-Do you have any experience in pre-sales?
-What were your roles and responsibilities in last Java project?
-Which design pattern did you follow and why?
-Best practices in Java development that you followed?
+* dml ddl dcl
+* normalization
+* isolation level
+* lets say you have list of employee with name age salary- i want employee with 2nd largest salary (dont use order by)
+* .
+* 
+* ------------------------------------------------------------Buildtool
+* Which build too you have used?
 
 
-i am done
-do you have any question
-i need to provide the review
+* -----------------------------------------------------Project related question
+* Explain your project along with all the components
+* Explain the Architecture of your Java Project
+* Versions of different components used
+* Which are the biggest challenges you have faced while working on Java project?
+* ----------->angular app integration cannot add backend jar so for front end  , multiple save connections so used pipeline
+* Which is your biggest achievement in the mentioned Java project?
+* Did you stuck in a situation where there was no path ahead, how you handled that case?
+* Which is your favorite forum to get help while facing issues?
+* How you coordinate with the client in case of any issues?
+* How you educate your client for the problems which they are not aware of?
+* Do you have any experience in pre-sales?
+* What were your roles and responsibilities in last Java project?
+* Which design pattern did you follow and why?
+* Best practices in Java development that you followed?
 
+* i am done
+* do you have any question
+* i need to provide the review
+*
 			
 			
