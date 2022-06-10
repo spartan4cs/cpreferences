@@ -5,3 +5,4 @@
 3. https://www.baeldung.com/
 4. https://www.javamadesoeasy.com/
 5. https://www.javainterviewpoint.com/
+6. https://javagoal.com/
