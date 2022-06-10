@@ -6,3 +6,4 @@
 4. https://www.javamadesoeasy.com/
 5. https://www.javainterviewpoint.com/
 6. https://javagoal.com/
+7. http://javainsimpleway.com/
